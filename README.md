@@ -33,7 +33,7 @@ This project highlights the following **data visualization and system design ski
 ## 📂 Project Structure
 
 ```
-DASH_APP/
+DASH_DATA_INSIGHT_APP/
 │
 ├── dashboard.py        # Main Dash application
 ├── gapminder.csv       # Dataset
